@@ -1,0 +1,16 @@
+{
+  "name": "Minhas tarefas",
+  "short_name": "Tarefas",
+  "description": "Tarefas de casa com estrelas e conferência dos pais",
+  "lang": "pt-BR",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf4ff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icone.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
